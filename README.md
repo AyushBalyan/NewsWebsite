@@ -45,5 +45,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
-![Screenshot](screenshot1.jpeg)
-![Screenshot](screenshot2.jpeg)
+![Screenshot](Screenshot1.jpeg)
+![Screenshot](Screenshot2.jpeg)
