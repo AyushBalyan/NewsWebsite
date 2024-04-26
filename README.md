@@ -28,9 +28,16 @@ The project relies on the following external APIs:
 
 No installation is required to run the project. However, you need an internet connection to fetch news articles and stock information from the APIs.
 
-## Contributors
+## Contributions
 
-This project was created by Ayush Balyan.
+Contributions are welcome! If you want to contribute to this project, follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix: git checkout -b feature/your-feature.
+Make your changes and commit them: git commit -m 'Add a new feature'.
+Push to the branch: git push origin feature/your-feature.
+Create a pull request.
+Please ensure your pull request is in line with the project's coding style and standards.
 
 ## License
 
