@@ -42,3 +42,8 @@ Please ensure your pull request is in line with the project's coding style and s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Screenshots
+
+![Screenshot](screenshot1.jpeg)
+![Screenshot](screenshot2.jpeg)
