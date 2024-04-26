@@ -24,6 +24,8 @@ The project relies on the following external APIs:
 - [NewsAPI](https://newsapi.org/) for fetching news articles
 - [Finnhub](https://finnhub.io/) for fetching stock information
 
+You can create your own API for free by going on the above links and use it in place of mine by simply changing the 'API_KEY' and 'API_TOKEN' variables in the JavaScript file (script.js).
+
 ## Installation
 
 No installation is required to run the project. However, you need an internet connection to fetch news articles and stock information from the APIs.
